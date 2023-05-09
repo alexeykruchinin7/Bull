@@ -1,0 +1,2 @@
+# Bull
+Game as homework
